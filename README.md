@@ -1,4 +1,3 @@
-# littlefire.github.io
 以下“文火”代指站长。
 
 ## 文火有言
